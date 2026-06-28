@@ -11,3 +11,5 @@ Centralized Communication: A unified space for broadcast updates, highlight reel
 Premium UI/UX: Designed with a clean, responsive, card-based interface featuring a modern purple-themed aesthetic, high-contrast visual cues, and optimized typography for seamless navigation.
 
 Tech Stack Frontend: HTML5, CSS3 (Advanced layouts, responsive design)
+
+# LIVE LINK:https://asif-mehraj.github.io/Intellecta/
